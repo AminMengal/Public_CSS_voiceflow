@@ -1,6 +1,6 @@
 
 
-  .s9t60i0 {height: 60px; width: 60px;}
+  .s9t60i0 *{height: 60px; width: 60px;}
 }
 @media only screen and (max-width: 768px) {
 .form-header{width: 220px !important;}
