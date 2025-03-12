@@ -38,7 +38,7 @@
  margin-left: -15px;
 }
     /* Form adjustments */
-    .form-header {
+    .form-header, .cleaning-form-container  {
         width: 200px !important; /* Adjust 1st form size */
     }
 
