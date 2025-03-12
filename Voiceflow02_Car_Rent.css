@@ -42,17 +42,17 @@
  margin-left: -16px;
 }
 .g3dqfd2 {  /*  small chet left icon */
- width: 15px;
+ width: 25px;
  height: auto;
 }
     /* Form adjustments */
     .cleaning-form-container  {
-        width: 250px !important; /* Adjust 1st form size */
+        width: 270px !important; /* Adjust 1st form size */
      
     }
 
     .form-title {
-        width: 250px !important; /* Adjust 2nd form size */}
+        width: 270px !important; /* Adjust 2nd form size */}
 }
 
 
