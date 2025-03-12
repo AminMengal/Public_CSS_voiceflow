@@ -36,6 +36,8 @@
     }
 .g3dqfd2 {  /*  chat margin left on small screen */
  margin-left: -15px;
+ width: 30px;
+ height: auto;
 }
     /* Form adjustments */
     .form-header, .cleaning-form-container  {
