@@ -6,22 +6,47 @@
 }
 @media only screen and (max-width: 768px) {
 
-._1f1qam0 ._1ytjivy3 { width: 90%; }
-._1qfqwvw4 ._1n8bxi85 { left: 250px;}
-._7rpfil3 iframe { margin-left: -15px; margin-right: -15px; margin-Top: -15px; margin-bottom: -12px; width: 250px; 
-border-radius: 10px;}
-._7rpfile, ._7rpfield { font-size: 13px;}
-label {
-    font-size: 1.4em !important;
+    /* Adjusting widths for specific elements */
+    ._1f1qam0 ._1ytjivy3 {
+        width: 90%;
+    }
+
+    ._1qfqwvw4 ._1n8bxi85 {
+        left: 250px;
+    }
+
+    /* Styling iframe inside _7rpfil3 */
+    ._7rpfil3 iframe {
+        margin-left: -15px;
+        margin-right: -15px;
+        margin-top: -15px;
+        margin-bottom: -12px;
+        width: 250px;
+        border-radius: 10px;
+    }
+
+    /* Adjust font size for _7rpfile and _7rpfield */
+    ._7rpfile, ._7rpfield {
+        font-size: 13px;
+    }
+
+    /* Label font size */
+    label {
+        font-size: 1.4em !important;
+    }
+
+    /* Form adjustments */
+    .form-header {
+        width: 220px !important; /* Adjust 1st form size */
+    }
+
+    .form-title {
+        width: 200px !important; /* Adjust 2nd form size */}
 }
-/* ===============froms======= */
-.form-header {width: 220px !important;}/*   1st form size*/
- .form-title {width: 200px !important;}/*   second form size */
 
 
 
- 
-}
+
 @media screen and (min-width: 1024px) {
   ._1wkq7nf1 ._1wkq7nf3 {
     width: 600px !important;
