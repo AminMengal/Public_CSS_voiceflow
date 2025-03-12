@@ -35,7 +35,7 @@
         font-size: 1.4em !important;
     }
 .g3dqfd6 { /*  first main icons */
-    padding-left: 12px !important;
+    padding-left: 15px !important;
 }
  
 .g3dqfd1 {
@@ -50,12 +50,16 @@
         width: 270px !important; /* Adjust 1st form size */
      }
 .company-logo { /*form company logo */
-                            width: 50px;
+                            width: 30px;
 }
+ 
     .form-title {
-        width: 270px !important; /* Adjust 2nd form size */}
+        width: 270px !important; /* Adjust 2nd form size */
+     font-size: 18px;}
 }
-
+.form-group label {
+font-size: 8px;
+}
 
 
 
