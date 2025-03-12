@@ -34,33 +34,44 @@
     label {
         font-size: 1.4em !important;
     }
-.g3dqfd6 { /*  first main icons */
-    padding-left: 15px !important;
-}
- 
-.g3dqfd1 {
- margin-left: -16px;
-}
-.g3dqfd2 {  /*  small chet left icon */
- width: 25px;
- height: auto;
-}
-    /* Form adjustments */
-    .cleaning-form-container  {
-        width: 270px !important; /* Adjust 1st form size */
-     }
-.company-logo { /*form company logo */
-                            width: 30px;
-}
- 
-    .form-title {
-        width: 270px !important; /* Adjust 2nd form size */
-     font-size: 18px;}
-}
-.form-group label {
-font-size: 8px;
-}
 
+    /* Main icons */
+    .g3dqfd6 {
+        padding-left: 15px !important;
+    }
+
+    /* Adjust positioning for icon elements */
+    .g3dqfd1 {
+        margin-left: -16px;
+    }
+
+    .g3dqfd2 {  
+        width: 25px;
+        height: auto; /* Adjusts size of small chat left icon */
+    }
+
+    /* Form container adjustments */
+    .cleaning-form-container {
+        width: 270px !important; /* Adjust 1st form size */
+    }
+
+    /* Company logo size inside form */
+    .company-logo {
+        width: 30px;
+    }
+
+    /* Adjust form title width and font size */
+    .form-title {
+        width: 270px !important; 
+        font-size: 18px;
+    }
+
+    /* Adjust font size for form-group label */
+    .form-group label {
+        font-size: 10px;
+    }
+
+}
 
 
 @media screen and (min-width: 1024px) {
