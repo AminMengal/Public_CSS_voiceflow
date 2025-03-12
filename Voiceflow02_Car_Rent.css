@@ -36,16 +36,17 @@
     }
 .g3dqfd2 {  /*  chat margin left on small screen */
  margin-left: -15px;
- width: 30px;
+ width: 20px;
  height: auto;
 }
     /* Form adjustments */
-    .form-header, .cleaning-form-container  {
-        width: 200px !important; /* Adjust 1st form size */
+    .cleaning-form-container  {
+        width: 220px !important; /* Adjust 1st form size */
+     
     }
 
     .form-title {
-        width: 200px !important; /* Adjust 2nd form size */}
+        width: 220px !important; /* Adjust 2nd form size */}
 }
 
 
