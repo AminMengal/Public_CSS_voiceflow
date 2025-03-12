@@ -66,7 +66,9 @@
         font-size: 18px !important;
     }
  .contact-form-container {
+min-width: 250px !important; 
 width: 250px !important; 
+
  }
 
     /* Adjust font size for form-group label */
