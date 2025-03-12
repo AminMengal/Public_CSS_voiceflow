@@ -15,9 +15,8 @@ label {
     font-size: 1.4em !important;
 }
 /* ===============froms======= */
-.form-header {width: 220px !important;}
-
-  .form-title {width: 200px !important;}
+.form-header {width: 220px !important;}/*   1st form size*/
+ .form-title {width: 200px !important;}/*   second form size */
 
 
 
