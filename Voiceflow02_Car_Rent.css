@@ -34,19 +34,23 @@
     label {
         font-size: 1.4em !important;
     }
-.g3dqfd2 {  /*  chat margin left on small screen */
- margin-left: -15px;
- width: 20px;
+
+ 
+.g3dqfd1 {
+ margin-left: -16px;
+}
+.g3dqfd2 {  /*  small chet left icon */
+ width: 15px;
  height: auto;
 }
     /* Form adjustments */
     .cleaning-form-container  {
-        width: 220px !important; /* Adjust 1st form size */
+        width: 250px !important; /* Adjust 1st form size */
      
     }
 
     .form-title {
-        width: 220px !important; /* Adjust 2nd form size */}
+        width: 250px !important; /* Adjust 2nd form size */}
 }
 
 
