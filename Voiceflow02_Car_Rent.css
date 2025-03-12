@@ -13,7 +13,7 @@ border-radius: 10px;}
 ._7rpfile, ._7rpfield { font-size: 13px;}
 label {
     font-size: 1.4em !important;
-
+}
 /* ===============froms======= */
 .form-header, .form-title {width: 220px !important;}
 .form-title {  background: Blue;    }
@@ -22,7 +22,7 @@ label {
 
 
  
-}}
+}
 @media screen and (min-width: 1024px) {
   ._1wkq7nf1 ._1wkq7nf3 {
     width: 600px !important;
