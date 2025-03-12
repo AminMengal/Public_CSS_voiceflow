@@ -48,9 +48,10 @@
     /* Form adjustments */
     .cleaning-form-container  {
         width: 270px !important; /* Adjust 1st form size */
-     
-    }
-
+     }
+.company-logo { /*form company logo */
+                            width: 50px;
+}
     .form-title {
         width: 270px !important; /* Adjust 2nd form size */}
 }
