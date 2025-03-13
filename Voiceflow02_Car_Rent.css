@@ -4,6 +4,10 @@
     height: 50px !important; 
     width: 50px !important;
 }
+.form-group label {
+        font-size: 16px !important;
+    }
+
 @media only screen and (max-width: 768px) {
 
     /* Adjusting widths for specific elements */
