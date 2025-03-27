@@ -1,4 +1,45 @@
 /* #################### Forms #############*/
+/* Media query for phone screens (max-width: 480px) */
+@media (max-width: 580px) {
+    .cleaning-form-container {
+        display: flex !important;
+        flex-direction: column !important;
+        align-items: center !important;
+        justify-content: center !important;
+        text-align: center !important;
+    }
+
+    .top-row {
+        display: flex !important;
+        flex-direction: column !important;
+        align-items: center !important;
+        justify-content: center !important;
+    }
+
+    .company-logo {
+        margin-bottom: 10px !important;
+        max-width: 100% !important;
+        height: auto !important;
+    }
+
+    .form-title {
+        font-size: 1.2rem !important;
+        font-weight: bold !important;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+/*#############form for bigger screens #########*/
 
       .cleaning-form-container {
                             font-family: Arial, sans-serif;
