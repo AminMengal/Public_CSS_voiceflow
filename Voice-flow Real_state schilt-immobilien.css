@@ -48,35 +48,18 @@
     }
 
     /* Form container adjustments */
-    .cleaning-form-container {
-        width: 270px !important; /* Adjust 1st form size */
-    }
+  
 
-    /* Company logo size inside form */
-    .company-logo {
-        width: 30px !important;
-    }
-
-    /* Adjust form title width and font size */
-    .form-title {
-        width: 250px !important; 
-        font-size: 18px !important;
-    }
- .contact-form-container {
-min-width: 250px !important; 
-width: 250px !important; 
-
- }
-
-    /* Adjust font size for form-group label */
-    .form-group label {
-        font-size: 11px !important;
-    }
-
+    
 .vfrc-message form {                 /* FORM SIZE */
     
     max-width: 240px;
 }
+/*     chatbot ICON in side chetbot center */
+    .g931q12 {
+    height: 40px;
+    width: 40px;
+    }
  
 }
 
