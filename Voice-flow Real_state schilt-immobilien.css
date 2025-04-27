@@ -2,6 +2,10 @@
 
 /*--------------code for chatbot-----------*/
 @media only screen and (max-width: 768px) {
+    
+   
+
+  
 ._1gdvh9t1 {
 padding: 1px;
 }
@@ -42,6 +46,7 @@ padding: 1px;
     /* Adjust font size for _7rpfile and _7rpfield */
     ._11kfxpgd:last-child, ._15emaa41 {
         font-size: 13px;
+       padding: 7px;
     }
 
     /* Label font size */
