@@ -12,10 +12,13 @@ padding: 1px;
     margin-left: 20px;
   }
     
-._15s29m94 {
-    max-width: 180px;
-    max-height: 38px;
-}
+._15s29m94 { /*chatbot icon */
+  
+        max-width: 200px;
+        max-height: 38px;
+        padding-top: 0;
+        padding-bottom: 0;
+    }
     /* Adjusting widths for specific elements */
     ._1f1qam0 ._1ytjivy3 {
         width: 90%;
