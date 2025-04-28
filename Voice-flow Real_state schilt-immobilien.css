@@ -3,15 +3,7 @@
 /*--------------code for chatbot-----------*/
 @media only screen and (max-width: 768px) {
     
-   ._11kfxpg3, ._15emaa41{ /* chatbot text aria */
-padding: 8px 8px 8px !important;
-
-}
-
   
-._1gdvh9t1 {
-padding: 1px;
-}
   ._1gdvh9t6 {
     
     width: 100%;
@@ -49,7 +41,7 @@ padding: 1px;
     /* Adjust font size for _7rpfile and _7rpfield */
     ._11kfxpgd:last-child, ._15emaa41 {
         font-size: 13px;
-        font-family: 'Open Sans', Arial, sans-serif;
+       
 
     }
 
