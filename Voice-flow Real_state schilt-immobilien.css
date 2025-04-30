@@ -5,7 +5,9 @@
 }/* all text box size */
 @media only screen and (max-width: 768px) {
  ._11kfxpgf {font-size: 12px;} ._1q15b0b1 {font-size: 12px;}
-
+ .jyiuei4 {font-size: 14px; }/* Header text size */
+.g931q11 {
+    height: 28px; width: 28px;}/*     header icon size */
 .jyiuei2 {height: 50px;} /* header size*/
 .g931q12 {height: 42px !important; 
 width: 42px !important;}/* Center logo */
@@ -17,6 +19,7 @@ width: 42px !important;}/* Center logo */
     line-height: 18px; padding: 5px 8px 5px;}/* Links padding */
 ._1gdvh9t1 {padding: 2px 7px 2px 20px;}/* Footer input */
 .jsli365 {   font-size: 10px; }/*  footer-link text size */
+   
 }
 
 
