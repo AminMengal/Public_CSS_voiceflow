@@ -2,7 +2,7 @@
 .s9t60i0 *{font-family: 'Open Sans', Arial, sans-serif;} /* font for all */
 
 @media only screen and (max-width: 768px) {
- ._11kfxpgf {font-size: 12px;} ._1q15b0b1 {font-size: 12px;}
+ ._11kfxpgf {font-size: 12px;} ._1q15b0b1 {font-size: 12px; line-height: 18px;}
     ._11kfxpg3, ._15emaa41 {
     padding: 9px 13px 9px;
 }/* all text box size */
