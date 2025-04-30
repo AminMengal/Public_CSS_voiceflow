@@ -38,13 +38,14 @@ width: 40px !important;}/* Center logo */
 
 /* Media query for phone screens (max-width: 480px) */
 /*  ----- end----------*/
-@media (max-width: 580px) {
+@media (max-width: 768px) {
     .cleaning-form-container {
         display: flex !important;
         flex-direction: column !important;
         align-items: center !important;
         justify-content: center !important;
         text-align: center !important;
+     width: 300px;
     }
 
     .top-row {
