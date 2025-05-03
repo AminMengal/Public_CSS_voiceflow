@@ -1,5 +1,5 @@
 /* #################### Forms #############*/
-.s9t60i0 *{font-family: 'Open Sans', Arial, sans-serif;} /* font for all */
+.s9t60i0 *{font-family: 'Open Sans', Arial, sans-serif !important;} /* font for all */
 
 @media only screen and (max-width: 768px) {
  ._11kfxpgf {font-size: 12px;} ._1q15b0b1 {font-size: 12px; line-height: 18px;}
@@ -39,13 +39,13 @@ width: 40px !important;}/* Center logo */
 /* Media query for phone screens (max-width: 480px) */
 /*  ----- end----------*/
 @media (max-width: 768px) {
-    .cleaning-form-container {
+    .cleaning-form-container, .Real_state {
         display: flex !important;
         flex-direction: column !important;
         align-items: center !important;
         justify-content: center !important;
         text-align: center !important;
-     
+      width: 300px !important;
     }
 
     .top-row {
