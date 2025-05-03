@@ -61,13 +61,13 @@ width: 40px !important;}/* Center logo */
         height: auto !important;
     }
 
-    .form-title #houseType{
-        font-size: 16px !important;
+    .form-title{
+        font-size: 18px !important;
         font-weight: bold !important;
     }
- .form-title{
-float: left !important;
- }
+ .form-group label {
+     float: left;
+}
   
  .cleaning-form-container input, .cleaning-form-container textarea,.cleaning-form-container #houseType {
 width: 220px;
