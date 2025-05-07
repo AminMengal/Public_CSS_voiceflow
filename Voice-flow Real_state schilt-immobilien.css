@@ -38,7 +38,7 @@ width: 40px !important;}/* Center logo */
 
 /* Media query for phone screens (max-width: 480px) */
 /*  ----- end----------*/
-@media (max-width: 768px) {
+/*@media (max-width: 768px) {
     .cleaning-form-container, .Real_state {
         display: flex !important;
         flex-direction: column !important;
@@ -73,9 +73,9 @@ width: 40px !important;}/* Center logo */
   
 /*  .cleaning-form-container input, .cleaning-form-container textarea, #houseType{
 width: 220px;
-  }  */
+  } 
 }
-
+ */
 
 
 
