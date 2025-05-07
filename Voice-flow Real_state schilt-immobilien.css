@@ -70,12 +70,10 @@ width: 40px !important;}/* Center logo */
   font-szie: 14px;
 }
   
- .cleaning-form-container input, .cleaning-form-container textarea,.cleaning-form-container #houseType, .form-group select {
+ .cleaning-form-container input, .cleaning-form-container textarea,.cleaning-form-container #houseType{
 width: 220px;
   }
-.form-group *{
-width: 220px;
-}
+
 }
 
 
