@@ -137,6 +137,10 @@
         font-size: 1.2rem !important;
         font-weight: bold !important;
     }
+    #houseType{
+
+    width: 220px;
+    }
 }
 
 /*#############form for bigger screens #########*/
