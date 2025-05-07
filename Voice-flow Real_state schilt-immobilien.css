@@ -70,7 +70,7 @@ width: 40px !important;}/* Center logo */
   font-szie: 14px !important;
 }
   
- .cleaning-form-container input, .cleaning-form-container textarea,.cleaning-form-container #houseType{
+ .cleaning-form-container input, .cleaning-form-container textarea, #houseType{
 width: 220px !important;
   }
 
