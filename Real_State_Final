@@ -1,3 +1,45 @@
+
+
+
+/* #################### Forms #############*/
+.s9t60i0 *{font-family: 'Open Sans', Arial, sans-serif !important;} /* font for all */
+
+@media only screen and (max-width: 768px) {
+ ._11kfxpgf {font-size: 12px;} ._1q15b0b1 {font-size: 12px; line-height: 18px;}
+    ._11kfxpg3, ._15emaa41 {
+    padding: 7px 12px 7px;
+}/* all text box size */
+ .jyiuei4 {font-size: 14px; }/* Header text size */
+.g931q11 {
+    height: 28px; width: 28px;}/*     header icon size */
+.jyiuei2 {height: 45px;} /* header size*/
+.g931q12 {height: 40px !important; 
+width: 40px !important;}/* Center logo */
+  .dio4eo4 { font-size: 18px;} /*Font size for large text */
+.dio4eo5 { font-size: 11px;}/*  after large small text in side chatbot */
+
+
+ 
+ .s9t60i0 *{font-family: 'Open Sans', Arial, sans-serif;} /* font for all */
+.g3dqfd2 {max-width: 25px; max-height: 25px; margin-left: -19px;}/*  side logo */
+.g3dqfd6 {padding-left: 18px;} /*Links padding */
+._1q15b0b1 {
+    line-height: 18px; padding: 5px 8px 5px;}/* Links padding */
+._1gdvh9t1 {padding: 3px 7px 4px 20px;}/* Footer input */
+.jsli365 {   font-size: 9px; }/*  footer-link text size */
+._1gdvh9t6 { margin-bottom: 2px;}/*    bottom text feild in side text */
+._15s29m94 {   padding: 0px 10px 0px 7px; max-height: 30px;}/* chatbot icon */
+
+ 
+}
+
+
+
+
+
+
+
+
 /* #################### Forms #############*/
 /*--------------code for chatbot-----------*/
 @media only screen and (max-width: 768px) {
