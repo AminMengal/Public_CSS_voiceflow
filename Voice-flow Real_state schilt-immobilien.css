@@ -70,10 +70,13 @@ width: 40px !important;}/* Center logo */
   font-szie: 14px !important;
 }
   
- .cleaning-form-container input, .cleaning-form-container textarea, #houseType{
+ .cleaning-form-container input, .cleaning-form-container textarea{
 width: 220px !important;
   }
+#houseType{
+width: 220px !important;
 
+}
 }
 
 
@@ -129,8 +132,7 @@ width: 220px !important;
                         }
                   
                         
-                        input, textarea, #houseType {
-                            width: 100%;
+                       
                             padding: 8px;
                             box-sizing: border-box;
                             margin-top: 4px;
