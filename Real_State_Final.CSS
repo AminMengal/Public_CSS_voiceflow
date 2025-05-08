@@ -32,7 +32,13 @@
     }
     #houseType, .form-group input{
         width: 220px !important;
-}}
+}
+.form-group label {
+text-align: left;
+}
+
+
+}
 
 
 
