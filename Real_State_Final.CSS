@@ -2,7 +2,7 @@
 
 
 
-
+.s9t60i0 *{font-family: 'Open Sans', Arial, sans-serif !important;} /* font for all */
 
 
 
@@ -33,7 +33,7 @@
     }
     #houseType, .form-group input{
         width: 220px !important;
-Border: solid red 2px;
+
     }
 }
 
