@@ -33,6 +33,7 @@
     }
     #houseType, .form-group input{
         width: 220px !important;
+Border: solid red 2px;
     }
 }
 
