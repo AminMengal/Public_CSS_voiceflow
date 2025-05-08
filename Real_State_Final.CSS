@@ -218,9 +218,10 @@ input, textarea, #houseType {
 .s9t60i0 *{font-family: 'Open Sans', Arial, sans-serif !important;} /* font for all */
 
 @media only screen and (max-width: 768px) {
- ._11kfxpgf {font-size: 12px !important;} ._1q15b0b1 {font-size: 12px !important; line-height: 18px! important;}
+ ._11kfxpgf, ._15emaa41 {font-size: 12px !important;} ._1q15b0b1 {font-size: 12px !important; line-height: 18px! important;}
     ._11kfxpg3, ._15emaa41 {
     padding: 7px 12px 7px;
+    
 }/* all text box size */
  .jyiuei4 {font-size: 14px; }/* Header text size */
 .g931q11 {
@@ -233,7 +234,7 @@ width: 40px !important;}/* Center logo */
 
 
  
- .s9t60i0 *{font-family: 'Open Sans', Arial, sans-serif;} /* font for all */
+ .s9t60i0 *{font-family: 'Open Sans', Arial, sans-serif !important;} /* font for all */
 .g3dqfd2 {max-width: 25px; max-height: 25px; margin-left: -19px;}/*  side logo */
 .g3dqfd6 {padding-left: 18px;} /*Links padding */
 ._1q15b0b1 {
