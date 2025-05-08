@@ -5,7 +5,6 @@
 .s9t60i0 *{font-family: 'Open Sans', Arial, sans-serif !important;} /* font for all */
 
 
-
 /* Media query for phone screens (max-width: 480px) */
 /*  ----- end----------*/
 @media (max-width: 580px) {
@@ -33,9 +32,7 @@
     }
     #houseType, .form-group input{
         width: 220px !important;
-
-    }
-}
+}}
 
 
 
@@ -202,10 +199,6 @@ input, textarea, #houseType {
         border-radius: 10px;
     }
 }
-
-
-
-
 
 
 
