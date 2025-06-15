@@ -90,9 +90,11 @@ width: 250px !important;
 @media screen and (min-width: 1024px) {
   ._1wkq7nf1 ._1wkq7nf3 {
     width: 600px !important;
+   
     max-width: 600px !important;
     max-height: 700px !important;
-  
+  Border: solid 2px Red;
+  } 
   
   
   
