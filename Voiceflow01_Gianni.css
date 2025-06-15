@@ -3,6 +3,7 @@
  .g931q12 {                        /*Logo inside frame*/
     height: 50px !important; 
     width: 50px !important;
+  Border: solid 2px red;
 }
 
 
