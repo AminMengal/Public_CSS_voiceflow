@@ -282,7 +282,8 @@ input, textarea, #houseType {
 }
 
 @media screen and (min-width: 1024px) {
-    ._1wkq7nf1 ._1wkq7nf3 {
+/*     ._1wkq7nf1 ._1wkq7nf3 { */
+     ._1wkq7nf1 ._1wkq7nf5 {
         width: 600px !important;
         max-width: 600px !important;
         max-height: 700px !important;
